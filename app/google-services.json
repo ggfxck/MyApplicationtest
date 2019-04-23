@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783909399468",
+    "firebase_url": "https://token-test-e162f.firebaseio.com",
+    "project_id": "token-test-e162f",
+    "storage_bucket": "token-test-e162f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783909399468:android:b4905182f8a498e2",
+        "android_client_info": {
+          "package_name": "com.micesoft.myapplicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783909399468-9bo8r5pu62sc9681rvvqfa8l6d8obofb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGqwifnjWcvtljbsnTjcx9FVdmB5Lr_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783909399468-9bo8r5pu62sc9681rvvqfa8l6d8obofb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
